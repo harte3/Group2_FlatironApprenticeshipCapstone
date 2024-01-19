@@ -9,7 +9,9 @@
 
 ## Introduction
 
-The team came up with the business problem after coming across a dataset on pateints admitted to a hospital for a suspected stroke. For many of these incidents, it is a first time occurence, so making patients aware of the factors that possibly put them at risk is important. With that being said, not all individuals have easy access to healthcare, therefore implementing a federal program to bring awareness to those who may have a higher risk can benefit indivudals regardless of their insurance or financial status. The product idea we came up with is a machine learning model that can identify whether or not patients in this dataset had a stroke or not, and of those people that are stroke positive, what factors do they have in common. We ran several types of models and decided that logistic regression best suited our business problem and analyses.
+The team came up with the business problem after coming across a dataset on pateints admitted to a hospital for a suspected stroke. For many of these incidents, it is a first time occurence, so making patients aware of the factors that possibly put them at risk is important. With that being said, not all individuals have easy access to healthcare, therefore implementing a federal program to bring awareness to those who may have a higher risk can benefit indivudals regardless of their insurance or financial status. 
+
+The product idea we came up with is a machine learning model that can identify whether or not patients in this dataset had a stroke or not, and of those people that are stroke positive, what factors do they have in common. We ran several types of models and decided that logistic regression best suited our business problem and analyses.
 
 
 
@@ -35,7 +37,9 @@ Upon opening the repo you will find the main branch. By selecting the branch dro
 
 ## Exploring and Preparing the Data
 
-The notebook begins with the importing of all the libraries necessary for creating our models and is followed by reading and viewing the dataset using Pandas and dropping an irrelevant column. Next we created a heatmap to view the correlations between the variables. Next we viewed the distribution of ages of the patients as well as comparing different factors against each other in relation to stroke outcome. We also split the data up into ranges and added it as a new column to assist with readability. We viewed the data types and decidided we had to one hot encode in order to create our models.We then split the data into testing and training as well as set up a grid search with KNN Imputer. Lastly we checked for multicollinearity to ensure our models perform without being too skewed towards a specific factor.
+The notebook begins with the importing of all the libraries necessary for creating our models and is followed by reading and viewing the dataset using Pandas and dropping an irrelevant column. Next we created a heatmap to view the correlations between the variables. Next we viewed the distribution of ages of the patients as well as comparing different factors against each other in relation to stroke outcome. We also split the data up into ranges and added it as a new column to assist with readability. 
+
+We viewed the data types and decidided we had to one hot encode in order to create our models.We then split the data into testing and training as well as set up a grid search with KNN Imputer. Lastly we checked for multicollinearity to ensure our models perform without being too skewed towards a specific factor.
 
 
 
@@ -59,7 +63,9 @@ We wanted to test other ways we could imrpove accuracy, one way being by impleme
 
 ## Conclusion
 
-We decided logistic regression best suited our model and the factors that had the greatest impact on whether or not a patient had a stroke were age and hypertension, which is suprising as we inferenced that smoking status and BMI would hold more weight in the outcome. With that being said, hypertension should be taken seriously especially in conjunction with age over 60.
+We decided logistic regression best suited our model and the factors that had the greatest impact on whether or not a patient had a stroke were age and hypertension, which is suprising as we inferenced that smoking status and BMI would hold more weight in the outcome. 
+
+With that being said, hypertension should be taken seriously especially in conjunction with age over 60.
 
 
 
