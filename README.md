@@ -14,4 +14,12 @@ This model can be marketed towards federal health organizations such as Medicaid
 
 Our dataset is from Kaggle, a public, open-source site, and includes patients admitted to the hospital for a possible stroke. The factors include gender, age, hypertension, BMI, heart disease, occupation, residence type, average glucose level, and smoking status. Our target variable is whether or not the patient had a stroke (0 or 1).
 
-## 
+## Navigating the Repo
+
+To fork the repo, select fork in the top right corner and fill out the desired fields such as name and description (optional), then hit create fork. 
+
+Upon opening the repo you will find the main branch. By selecting the branch drop down in the top left, you can navigate to the other members branches. Each branch other than the main has its own notebook that the pair worked on, located in a folder titled 'notebooks', as well as another folder labeled 'plots' containing images of each plot included in the notebook. The main contains a notebook that is compilation of all the members notes, as well as a pdf copy of the presentation and a csv containing the dataset.
+
+
+
+
