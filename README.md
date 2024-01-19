@@ -1,4 +1,4 @@
-# Group2_FlatironApprenticeshipCapstone
+# Group 2 Apprenticeship Capstone
 ## Introduction
 
 The team came up with the business problem after coming across a dataset on pateints admitted to a hospital for a suspected stroke. For many of these incidents, it is a first time occurence, so making patients aware of the factors that possibly put them at risk is important. With that being said, not all individuals have easy access to healthcare, therefore implementing a federal program to bring awareness to those who may have a higher risk can benefit indivudals regardless of their insurance or financial status. The product idea we came up with is a machine learning model that can identify whether or not patients in this dataset had a stroke or not, and of those people that are stroke positive, what factors do they have in common. We ran several types of models and decided that logistic regression best suited our business problem and analyses.
