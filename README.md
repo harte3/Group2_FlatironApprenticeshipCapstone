@@ -1,8 +1,11 @@
 # Group 2 Apprenticeship Capstone
 
+
 ## Link to dataset: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/healthcare-dataset-stroke-data.csv
 
+
 ## Link to presentation: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/Capstone_Presentation.pdf
+
 
 ## Link to notebook: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/Final%20Notebook.ipynb
 
@@ -21,7 +24,7 @@ This model can be marketed towards federal health organizations such as Medicaid
 
 
 
-## Data Set
+## Dataset
 
 Our dataset is from Kaggle, a public, open-source site, and includes patients admitted to the hospital for a possible stroke. The factors include gender, age, hypertension, BMI, heart disease, occupation, residence type, average glucose level, and smoking status. Our target variable is whether or not the patient had a stroke (0 or 1).
 
