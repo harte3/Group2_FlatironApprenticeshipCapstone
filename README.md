@@ -1,8 +1,8 @@
 # Group 2 Apprenticeship Capstone
 
-Link to dataset: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/healthcare-dataset-stroke-data.csv
+## Link to dataset: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/healthcare-dataset-stroke-data.csv
 
-Link to presentation: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/Capstone_Presentation.pdf
+## Link to presentation: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/Capstone_Presentation.pdf
 
 
 ## Introduction
