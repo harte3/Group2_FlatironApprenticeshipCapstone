@@ -70,7 +70,7 @@ We wanted to test other ways we could imrpove accuracy, one way being by impleme
 
 We decided logistic regression best suited our model and the factors that had the greatest impact on whether or not a patient had a stroke were age and hypertension, which is suprising as we inferenced that smoking status and BMI would hold more weight in the outcome. 
 
-With that being said, hypertension should be taken seriously especially in conjunction with age over 60.
+With that being said, hypertension should be taken seriously especially in conjunction with age over 40.
 
 
 
