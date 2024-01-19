@@ -12,7 +12,7 @@
 
 ## Introduction
 
-The team came up with the business problem after coming across a dataset on pateints admitted to a hospital for a suspected stroke. For many of these incidents, it is a first time occurence, so making patients aware of the factors that possibly put them at risk is important. With that being said, not all individuals have easy access to healthcare, therefore implementing a federal program to bring awareness to those who may have a higher risk can benefit indivudals regardless of their insurance or financial status. 
+The team came up with the business problem after coming across a dataset on pateints admitted to a hospital for a suspected stroke. For many of these incidents, it is a first time occurence, so making patients aware of the factors that possibly put them at risk is important. With that being said, not all individuals have easy access to healthcare, therefore implementing a federal program to bring awareness to those who may have a higher risk can benefit indivudals regardless of their insurance or financial status. Our stakeholder is federal health organizations, such as Medicaid and Medicare. Medicare is specifically for people 65 and up and Medicaid is utilized by low income individuals as well as some government or state employees.
 
 The product idea we came up with is a machine learning model that can identify whether or not patients in this dataset had a stroke or not, and of those people that are stroke positive, what factors do they have in common. We ran several types of models and decided that logistic regression best suited our business problem and analyses.
 
@@ -70,7 +70,7 @@ We wanted to test other ways we could imrpove accuracy, one way being by impleme
 
 We decided logistic regression best suited our model and the factors that had the greatest impact on whether or not a patient had a stroke were age and hypertension, which is suprising as we inferenced that smoking status and BMI would hold more weight in the outcome. 
 
-With that being said, hypertension should be taken seriously especially in conjunction with age over 40.
+With that being said, hypertension should be taken seriously especially in conjunction with age over 40. This model should be utilized by federal health organizations for patient outreach.
 
 
 
