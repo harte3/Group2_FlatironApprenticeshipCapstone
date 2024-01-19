@@ -16,9 +16,19 @@ Our dataset is from Kaggle, a public, open-source site, and includes patients ad
 
 ## Navigating the Repo
 
-To fork the repo, select fork in the top right corner and fill out the desired fields such as name and description (optional), then hit create fork. 
+To fork the repo, select fork in the top right corner and fill out the desired fields such as name and description (optional), then hit create fork. This allows you to clone a local copy to conduct your own work on the notebook.
 
 Upon opening the repo you will find the main branch. By selecting the branch drop down in the top left, you can navigate to the other members branches. Each branch other than the main has its own notebook that the pair worked on, located in a folder titled 'notebooks', as well as another folder labeled 'plots' containing images of each plot included in the notebook. The main contains a notebook that is compilation of all the members notes, as well as a pdf copy of the presentation and a csv containing the dataset.
+
+## Exploring and Preparing the Data
+
+The notebook begins with the importing of all the libraries necessary for creating our models and is followed by reading and viewing the dataset using Pandas and dropping an irrelevant column. We viewed the data types and decidided we had to one hot encode in order to create our models. Next we created a heatmap to view the correlations between the variables. Next we viewed the distribution of ages of the patients as well as comparing different factors against each other in relation to stroke outcome. We then split the data into testing and training as well as set up a grid search with KNN Imputer. Lastly we checked for multicollinearity to ensure our models perform without being too skewed towards a specific factor.
+
+## Modeling
+
+
+
+
 
 
 
