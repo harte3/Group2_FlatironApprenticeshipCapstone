@@ -45,7 +45,9 @@ We viewed the data types and decidided we had to one hot encode in order to crea
 
 ## Modeling
 
-Since our data requires us to use binary classification, we used the following models, Logistic regression, K Nearest Neighbor classifier, Decision Tree Classifier, Random Forest Classifier, XGBoost, Support vector machine (SVM). We decided linear regression was the best for out data based on its scores. We also conducted feature importance to see which factors contributed the most to stroke positivity, which was age, specifically 61 and up. 
+Since our data requires us to use binary classification, we used the following models, Logistic regression, K Nearest Neighbor classifier, Decision Tree Classifier, Random Forest Classifier, XGBoost, Support vector machine (SVM). We started with doing SMOTE to address class imbalances in the data.
+
+We decided linear regression was the best for out data based on its scores. We also conducted feature importance to see which factors contributed the most to stroke positivity, which was age, specifically 61 and up. 
 
 
 
