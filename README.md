@@ -4,6 +4,8 @@
 
 ## Link to presentation: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/Capstone_Presentation.pdf
 
+## Link to notebook: https://github.com/harte3/Group2_FlatironApprenticeshipCapstone/blob/main/Final%20Notebook.ipynb
+
 
 ## Introduction
 
